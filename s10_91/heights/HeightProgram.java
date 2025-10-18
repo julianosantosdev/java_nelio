@@ -55,6 +55,8 @@ public class HeightProgram {
 				System.out.println(peopleList[i].getName());
 			}
 		}
+		
+		scanner.close();
 	}
 
 }
