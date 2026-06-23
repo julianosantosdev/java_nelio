@@ -42,7 +42,6 @@ public class S11_dateHour {
 		LocalDate d10 = LocalDate.of(2022, 07, 20);
 		System.out.println("LocalDate Formatter: " + d10);
 		
-		
 		LocalDateTime d11 = LocalDateTime.of(2022, 10, 27, 4, 26);
 		System.out.println("LocalDateTime of: " + d11);
 		
